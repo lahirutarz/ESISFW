@@ -1,4 +1,4 @@
-# 🖥️ Winget Silent Install Script
+# 🖥️ Essential Software Installer Script for Fresh WIndows (Winget Silent Install Script)
 
 A PowerShell script that silently installs a curated set of applications, runtimes, and system tools on a fresh Windows installation using [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) (Windows Package Manager).
 
